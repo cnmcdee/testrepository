@@ -19,3 +19,5 @@ class mysecondclass(object):
 	def __init__(self):
 		pass
 
+	def myemptyfunction(self):
+		pass
