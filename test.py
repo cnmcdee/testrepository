@@ -21,3 +21,8 @@ class mysecondclass(object):
 
 	def myemptyfunction(self):
 		pass
+
+class three(object):
+
+	def __init__(self):
+		pass
