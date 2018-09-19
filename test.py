@@ -12,3 +12,10 @@ class myclass(object):
 
 	def myprint(self,ofsomething):
 		print ofsomething
+
+
+class mysecondclass(object):
+
+	def __init__(self):
+		pass
+
